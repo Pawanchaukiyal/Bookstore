@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "price":0,
+        "tag":"Free",
+        "genere":"Romance,Action",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":2,
+        "name":"100 ways to cook",
+        "price":20,
+        "tag":"Paid",
+        "genere":"food",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":3,
+        "name":"Geatest Era of India",
+        "price":100,
+        "tag":"Paid",
+        "genere":"History,geography,politics",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":4,
+        "name":"The Book of Game",
+        "price":0,
+        "tag":"Free",
+        "genere":"Thriller,Adventure,Action",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":5,
+        "name":"King of the Physco",
+        "price":50,
+        "tag":"Paid",
+        "genere":"Mystery,Dark,Thriller,Horror,Suspense",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":7,
+        "name":"What great about you",
+        "price":0,
+        "tag":"Free",
+        "genere":"Self-Analysis,Motivational",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":8,
+        "name":"Next day never it comes",
+        "price":530,
+        "tag":"Paid",
+        "genere":"Romance,Action,Drama",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":9,
+        "name":"Looks Like Fool",
+        "price":0,
+        "tag":"Free",
+        "genere":"Romance,Action",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    },
+    {
+        "id":10,
+        "name":"Whose your God?",
+        "price":50,
+        "tag":"Paid",
+        "genere":"Physcology,Mystery",
+        "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?t=st=1713250689~exp=1713254289~hmac=287923d08388b6a41de58d0f9d5fb8ba51c20733c47a216c553e4ac8cac4665a&w=740"
+    }
+]
