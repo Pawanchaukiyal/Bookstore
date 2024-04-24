@@ -17,7 +17,12 @@ try {
     });
     // save the data now
     await createdUser.save();
-    res.status(201).json({message:"User created successfully"});
+    res.status(201).json({message:"User created successfully",user:{
+        _id: createdUser.id,
+        fullName: createdUser.fullName,
+        email: createdUser.email,
+    },
+});
 } catch (error) {
     console.log("Error"+ error.message);
     res.status(500).json({message:"Internal server error"})
